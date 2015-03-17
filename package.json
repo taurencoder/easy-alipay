@@ -11,6 +11,7 @@
   "author": "Daniel Qin <taurencoder@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "qs": "^2.4.1",
     "request": "^2.53.0",
     "thenify": "^3.1.0",
     "underscore": "^1.7.0",
