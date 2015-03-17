@@ -8,19 +8,22 @@
     "alipay",
     "api"
   ],
-  "author": {
-    "name": "Daniel Qin",
-    "email": "taurencoder@gmail.com"
-  },
+  "author": "Daniel Qin <taurencoder@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "underscore": "^1.7.0",
     "xml2js": "^0.4.5"
   },
   "maintainers": [
-    {
-      "name": "Daniel",
-      "email": "taurencoder@gmail.com"
-    }
-  ]
+    "Daniel <taurencoder@gmail.com>"
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taurencoder/easy-alipay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taurencoder/easy-alipay/issues"
+  },
+  "homepage": "https://github.com/taurencoder/easy-alipay"
 }
-
