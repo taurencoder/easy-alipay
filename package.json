@@ -1,0 +1,26 @@
+{
+  "name": "easy-alipay",
+  "version": "0.0.1",
+  "description": "alipay payment & notification APIs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "alipay",
+    "api"
+  ],
+  "author": {
+    "name": "Daniel Qin",
+    "email": "taurencoder@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.5"
+  },
+  "maintainers": [
+    {
+      "name": "Daniel",
+      "email": "taurencoder@gmail.com"
+    }
+  ]
+}
+
