@@ -1,6 +1,6 @@
 {
   "name": "easy-alipay",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "alipay payment & notification APIs",
   "main": "index.js",
   "scripts": {},
@@ -11,6 +11,8 @@
   "author": "Daniel Qin <taurencoder@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "request": "^2.53.1",
+    "thenify": "^3.1.0",
     "underscore": "^1.7.0",
     "xml2js": "^0.4.5"
   },
