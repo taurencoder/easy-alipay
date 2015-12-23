@@ -1,6 +1,6 @@
 {
   "name": "easy-alipay",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "alipay payment & notification APIs",
   "main": "index.js",
   "scripts": {},
